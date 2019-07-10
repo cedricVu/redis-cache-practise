@@ -1,0 +1,26 @@
+{
+  "name": "redis-cache-practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "redis": "^2.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedricVu/redis-cache-practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedricVu/redis-cache-practise/issues"
+  },
+  "homepage": "https://github.com/cedricVu/redis-cache-practise#readme"
+}
